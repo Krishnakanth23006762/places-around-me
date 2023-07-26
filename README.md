@@ -181,5 +181,10 @@ cmc.html
 
 ![output](vit.JPG)
 
+![output](cmc.png)
+
+### serveroutput:
+![serveroutput](servermap.png)
+
 ## Result:
 the program for implementing image map is excuted sucessful 
