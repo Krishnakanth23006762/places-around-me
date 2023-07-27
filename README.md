@@ -173,18 +173,18 @@ cmc.html
 ```
 ## Output:
 
-![output](GGR.JPG)
+![output](./GGR.JPG)
 
-![output](katpadi.JPG)
+![output](./katpadi.JPG)
 
-![output](vellorefort1.JPG)
+![output](./vellorefort1.JPG)
 
-![output](vit.JPG)
+![output](./vit.JPG)
 
-![output](cmc.png)
+![output](./cmc.png)
 
 ### serveroutput:
-![serveroutput](servermap.png)
+![serveroutput](./servermap.png)
 
 ## Result:
-the program for implementing image map is excuted sucessful 
+The program for implementing image map is excuted sucessfully.
