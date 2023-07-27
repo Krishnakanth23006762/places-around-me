@@ -19,7 +19,7 @@ run the django server and excute the HTML files
 
 
 ## Code:
-```py
+```
 <img id="Image-Maps-Com-image-maps-2023-07-26-054901" src="https://app.image-maps.com/m/private/0/53iblbh9vvgqvesr1oiq2me7ro_vellore.png" border="0" width="1845" height="965" orgWidth="1845" orgHeight="965" usemap="#image-maps-2023-07-26-054901" alt="" />
 <map name="image-maps-2023-07-26-054901" id="ImageMapsCom-image-maps-2023-07-26-054901">
 <area  alt="" title="vellorefort" href="vellorefort.html" shape="rect" coords="630,736,680,786" style="outline:none;" target="_self"     />
@@ -170,7 +170,7 @@ cmc.html
 
 </html>
 
-
+```
 ## Output:
 
 ![output](GGR.JPG)
